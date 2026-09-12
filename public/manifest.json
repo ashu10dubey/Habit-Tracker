@@ -1,0 +1,16 @@
+{
+  "name": "Habit Tracker",
+  "short_name": "Habits",
+  "description": "Scientific Habit Tracker - Build better habits with proven psychology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
